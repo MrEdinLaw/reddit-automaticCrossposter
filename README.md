@@ -22,7 +22,7 @@ for reddit API
 
 # Support Me 
 
-If you feel generous to support my work heres a paypal link:
+If you feel generous to support my work heres some links:
 
 http://www.paypal.me/mredinlaw
 
