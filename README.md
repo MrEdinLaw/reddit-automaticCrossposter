@@ -19,11 +19,3 @@ for reddit API
 
 # Known bugs
 * Please open a issue if any appear
-
-# Support Me 
-
-If you feel generous to support my work heres some links:
-
-http://www.paypal.me/mredinlaw
-
-https://www.patreon.com/mredinlaw
